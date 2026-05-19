@@ -33,3 +33,7 @@ npm run format         # Prettier
 - `src/index.ts` — Express API (Zod doğrulama + Winston log)
 - `src/examples/packages-demo.ts` — birkaç paketin kullanım örneği
 - `src/__tests__/user.test.ts` — Jest ile örnek test
+
+## Status
+
+CI/CD pipeline aktif — EkoSistem otomatik tarama her commit'te tetikleniyor.
